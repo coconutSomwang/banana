@@ -1,1 +1,2 @@
 print('coffice')
+print('tea')
